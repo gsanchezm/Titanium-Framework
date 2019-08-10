@@ -1,0 +1,9 @@
+#************************** Home Page ***********************************
+btn_MyAccount=//a[@title='My Account']
+btn_LogOut=//a[@title='Logout']
+
+#************************* Login Page ***********************************
+txtbx_UserName=log
+txtbx_Password=pwd
+btn_LogIn=login
+lbl_Error=(//p[@class='response'])[1]
